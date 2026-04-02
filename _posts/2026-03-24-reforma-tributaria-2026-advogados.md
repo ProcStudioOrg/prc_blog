@@ -1,127 +1,127 @@
 ---
 layout: post
-title: "Reforma tributaria 2026: o que muda na tributacao do seu escritorio de advocacia"
-description: "CBS, IBS, nova tabela de IRPF, tributacao de dividendos e comparativo Simples Nacional vs Lucro Presumido para escritorios de advocacia em 2026."
+title: "Reforma tributária 2026: o que muda na tributação do seu escritório de advocacia"
+description: "CBS, IBS, nova tabela de IRPF, tributação de dividendos e comparativo Simples Nacional vs Lucro Presumido para escritórios de advocacia em 2026."
 keywords: "reforma tributaria 2026, CBS IBS advogado, tributacao escritorio advocacia, dividendos 2026, simples nacional advocacia, lucro presumido advocacia, IRPF 2026"
 date: 2026-03-24
 author: "Bruno Pellizzetti"
 published: false
-tags: [Tributario, Gestao, Financeiro, Reforma Tributaria]
+tags: [Tributário, Gestão, Financeiro, Reforma Tributária]
 lang: pt-br
 permalink: /reforma-tributaria-2026-advogados/
-image: "/img/reforma-tributaria-2026.png"
-og_image: "/img/reforma-tributaria-2026.png"
-categories: [Gestao, Tributario]
+image: "/img/reforma-tributaria-2026-advogados.png"
+og_image: "/img/reforma-tributaria-2026-advogados.png"
+categories: [Gestão, Tributário]
 ---
 
-![Reforma Tributaria 2026](/img/reforma-tributaria-2026.png)
+![Reforma Tributária 2026](/img/reforma-tributaria-2026-advogados.png)
 
-# Reforma Tributaria 2026: O Que Muda na Tributacao do Seu Escritorio de Advocacia
+# Reforma Tributária 2026: O Que Muda na Tributação do Seu Escritório de Advocacia
 
-A Reforma Tributaria do consumo comecou a valer. Com a CBS, o IBS, as novas regras de IRPF e a tributacao de dividendos, o cenario fiscal dos escritorios de advocacia mudou — e entender essas mudancas e essencial para tomar decisoes estrategicas sobre o regime tributario do seu negocio.
+A Reforma Tributária do consumo começou a valer. Com a CBS, o IBS, as novas regras de IRPF e a tributação de dividendos, o cenário fiscal dos escritórios de advocacia mudou — e entender essas mudanças é essencial para tomar decisões estratégicas sobre o regime tributário do seu negócio.
 
-Neste artigo, consolidamos as principais alteracoes que afetam diretamente advogados em 2026, com base nas fontes oficiais (Receita Federal, Planalto e Portal Nacional da Tributacao sobre o Consumo).
+Neste artigo, consolidamos as principais alterações que afetam diretamente advogados em 2026, com base nas fontes oficiais (Receita Federal, Planalto e Portal Nacional da Tributação sobre o Consumo).
 
-## CBS e IBS: O Novo Imposto sobre Consumo Ja Esta em Teste
+## CBS e IBS: O Novo Imposto sobre Consumo Já Está em Teste
 
-Em 2026, estamos no ano de transicao da reforma. As aliquotas publicadas na calculadora oficial do Portal Nacional da Tributacao sobre o Consumo indicam:
+Em 2026, estamos no ano de transição da reforma. As alíquotas publicadas na calculadora oficial do Portal Nacional da Tributação sobre o Consumo indicam:
 
-- **CBS (Uniao):** 0,9%
+- **CBS (União):** 0,9%
 - **IBS (Estado):** 0,1%
-- **IBS (Municipio):** 0% (varia conforme o municipio)
+- **IBS (Município):** 0% (varia conforme o município)
 
-Essas aliquotas sao de teste e vao aumentar gradualmente nos proximos anos ate atingir a aliquota-padrao.
+Essas alíquotas são de teste e vão aumentar gradualmente nos próximos anos até atingir a alíquota-padrão.
 
-### Reducao de 30% para Advogados
+### Redução de 30% para Advogados
 
-A boa noticia: a Lei Complementar no 214/2025 (Art. 127) garante uma **reducao de 30% nas aliquotas de CBS e IBS** para prestacao de servicos por profissionais de atividades intelectuais submetidas a conselho profissional — incluindo expressamente advogados.
+A boa notícia: a Lei Complementar nº 214/2025 (Art. 127) garante uma **redução de 30% nas alíquotas de CBS e IBS** para prestação de serviços por profissionais de atividades intelectuais submetidas a conselho profissional — incluindo expressamente advogados.
 
-Na pratica, isso significa que a carga tributaria sobre consumo para escritorios de advocacia sera significativamente menor que a aliquota-padrao. A classificacao na calculadora oficial ja confirma: "Prestacao de servicos de profissoes intelectuais" com "Aliquota reduzida em 30%".
+Na prática, isso significa que a carga tributária sobre consumo para escritórios de advocacia será significativamente menor que a alíquota-padrão. A classificação na calculadora oficial já confirma: "Prestação de serviços de profissões intelectuais" com "Alíquota reduzida em 30%".
 
-## IRPF 2026: Isencao Ampliada e Tributacao Minima
+## IRPF 2026: Isenção Ampliada e Tributação Mínima
 
-A Lei no 15.270/2025 trouxe mudancas importantes no Imposto de Renda da Pessoa Fisica que afetam diretamente a comparacao entre atuar como PF ou PJ.
+A Lei nº 15.270/2025 trouxe mudanças importantes no Imposto de Renda da Pessoa Física que afetam diretamente a comparação entre atuar como PF ou PJ.
 
-### Nova Faixa de Isencao
+### Nova Faixa de Isenção
 
-A tabela progressiva de 2026 isenta rendimentos mensais ate **R$ 2.428,80**. Mas o impacto real esta na nova reducao:
+A tabela progressiva de 2026 isenta rendimentos mensais até **R$ 2.428,80**. Mas o impacto real está na nova redução:
 
-- **Ate R$ 5.000/mes:** imposto devido e zero (reducao de ate R$ 312,89)
-- **De R$ 5.000 a R$ 7.350/mes:** reducao decrescente ate zerar
-- **Acima de R$ 7.350/mes:** sem reducao
+- **Até R$ 5.000/mês:** imposto devido é zero (redução de até R$ 312,89)
+- **De R$ 5.000 a R$ 7.350/mês:** redução decrescente até zerar
+- **Acima de R$ 7.350/mês:** sem redução
 
-Na pratica, quem ganha ate R$ 5.000/mes nao paga IR.
+Na prática, quem ganha até R$ 5.000/mês não paga IR.
 
-### Tributacao Minima para Altas Rendas
+### Tributação Mínima para Altas Rendas
 
-Para advogados com rendimentos anuais acima de **R$ 600.000**, entra em cena a tributacao minima:
+Para advogados com rendimentos anuais acima de **R$ 600.000**, entra em cena a tributação mínima:
 
-| Rendimento Anual | Aliquota Minima |
+| Rendimento Anual | Alíquota Mínima |
 |---|---|
-| Ate R$ 600.000 | Nao se aplica |
+| Até R$ 600.000 | Não se aplica |
 | R$ 600.000 a R$ 1.200.000 | 0% a 10% (linear) |
 | Acima de R$ 1.200.000 | 10% |
 
-Essa aliquota incide sobre a soma de todos os rendimentos (inclusive isentos), deduzindo o IR ja pago no ano.
+Essa alíquota incide sobre a soma de todos os rendimentos (inclusive isentos), deduzindo o IR já pago no ano.
 
-## Dividendos: Agora Tem Retencao na Fonte
+## Dividendos: Agora Tem Retenção na Fonte
 
-Desde janeiro de 2026, dividendos pagos por uma mesma PJ a uma mesma PF **acima de R$ 50.000 no mes** sofrem IRRF de 10% sobre o valor total — nao apenas sobre o excedente.
+Desde janeiro de 2026, dividendos pagos por uma mesma PJ a uma mesma PF **acima de R$ 50.000 no mês** sofrem IRRF de 10% sobre o valor total — não apenas sobre o excedente.
 
-Pontos de atencao:
+Pontos de atenção:
 
-- Aplica-se a **todas as empresas**, inclusive optantes do Simples Nacional
-- Nao ha deducoes da base de calculo
-- Lucros de exercicios anteriores (ate 2025), se aprovados ate 31/12/2025, estao isentos
+- Aplica-se a **todas as empresas**, inclusive optantes do Simples Nacional;
+- Não há deduções da base de cálculo;
+- Lucros de exercícios anteriores (até 2025), se aprovados até 31/12/2025, estão isentos.
 
-O IRRF de 10% funciona como antecipacao: sera deduzido da tributacao minima anual. Para quem ganha menos de R$ 600.000/ano, o valor retido pode gerar **saldo a restituir** na declaracao.
+O IRRF de 10% funciona como antecipação: será deduzido da tributação mínima anual. Para quem ganha menos de R$ 600.000/ano, o valor retido pode gerar **saldo a restituir** na declaração.
 
 ## Simples Nacional vs. Lucro Presumido: O Que Muda na Escolha
 
 ### Simples Nacional (Anexo IV)
 
-Para advocacia, nada muda na estrutura do Simples: a atividade permanece no **Anexo IV**, sem fator R e com CPP paga a parte.
+Para advocacia, nada muda na estrutura do Simples: a atividade permanece no **Anexo IV**, sem fator R e com CPP paga à parte.
 
-| Faturamento Anual (RBT12) | Aliquota Efetiva |
+| Faturamento Anual (RBT12) | Alíquota Efetiva |
 |---|---|
-| Ate R$ 180.000 | 4,50% |
+| Até R$ 180.000 | 4,50% |
 | R$ 180.001 a R$ 360.000 | 6,75% a 8,10% |
 | R$ 360.001 a R$ 720.000 | 8,28% a 9,24% |
 | R$ 720.001 a R$ 1.800.000 | 9,91% a 11,79% |
 
 ### Lucro Presumido
 
-No Lucro Presumido, a presuncao para servicos continua em 32%, com:
-- **PIS/COFINS:** 0,65% + 3,00% sobre o faturamento
-- **ISS:** 2% a 5% (definicao municipal)
-- **IRPJ/CSLL:** trimestrais sobre a base presumida
+No Lucro Presumido, a presunção para serviços continua em 32%, com:
+- **PIS/COFINS:** 0,65% + 3,00% sobre o faturamento;
+- **ISS:** 2% a 5% (definição municipal);
+- **IRPJ/CSLL:** trimestrais sobre a base presumida.
 
 ### Qual Escolher?
 
-A resposta depende do faturamento, da estrutura societaria e, agora, da nova tributacao de dividendos. Com o IRRF de 10% sobre dividendos acima de R$ 50.000/mes, a estrategia de distribuicao de lucros precisa ser recalculada — especialmente para escritorios de medio porte.
+A resposta depende do faturamento, da estrutura societária e, agora, da nova tributação de dividendos. Com o IRRF de 10% sobre dividendos acima de R$ 50.000/mês, a estratégia de distribuição de lucros precisa ser recalculada — especialmente para escritórios de médio porte.
 
-Ferramentas como calculadoras tributarias sao essenciais para simular cenarios e tomar a melhor decisao. Nao existe resposta unica: cada escritorio precisa rodar os numeros.
+Ferramentas como calculadoras tributárias são essenciais para simular cenários e tomar a melhor decisão. Não existe resposta única: cada escritório precisa rodar os números.
 
 ## O Que Fazer Agora
 
-1. **Simule os cenarios:** Use a calculadora oficial da CBS/IBS e ferramentas de simulacao tributaria para entender o impacto real no seu escritorio
-2. **Revise a estrategia de pro-labore e dividendos:** Com o IRRF de 10%, distribuir valores acima de R$ 50.000/mes em uma unica parcela tem custo
-3. **Acompanhe a transicao CBS/IBS:** As aliquotas de 2026 sao de teste — a carga vai aumentar nos proximos anos
-4. **Planeje com o contador:** A combinacao de IRPF, dividendos e CBS/IBS cria cenarios complexos que exigem analise caso a caso
+1. **Simule os cenários:** use a calculadora oficial da CBS/IBS e ferramentas de simulação tributária para entender o impacto real no seu escritório.
+2. **Revise a estratégia de pró-labore e dividendos:** com o IRRF de 10%, distribuir valores acima de R$ 50.000/mês em uma única parcela tem custo.
+3. **Acompanhe a transição CBS/IBS:** as alíquotas de 2026 são de teste — a carga vai aumentar nos próximos anos.
+4. **Planeje com o contador:** a combinação de IRPF, dividendos e CBS/IBS cria cenários complexos que exigem análise caso a caso.
 
 ## FAQ
 
-**Advogados tem reducao na CBS/IBS?**
-Sim. A Lei Complementar 214/2025 garante reducao de 30% nas aliquotas para profissoes intelectuais regulamentadas, incluindo advocacia.
+**Advogados têm redução na CBS/IBS?**
+Sim. A Lei Complementar 214/2025 garante redução de 30% nas alíquotas para profissões intelectuais regulamentadas, incluindo advocacia.
 
-**Dividendos abaixo de R$ 50.000/mes continuam isentos?**
-Sim. A retencao de 10% so se aplica quando o total de dividendos pagos por uma mesma PJ a uma mesma PF ultrapassa R$ 50.000 no mes.
+**Dividendos abaixo de R$ 50.000/mês continuam isentos?**
+Sim. A retenção de 10% só se aplica quando o total de dividendos pagos por uma mesma PJ a uma mesma PF ultrapassa R$ 50.000 no mês.
 
 **Vale a pena migrar do Simples para o Lucro Presumido?**
-Depende do faturamento e da estrutura de distribuicao. Com a nova tributacao de dividendos, a analise precisa considerar o custo total — impostos da PJ mais impostos na distribuicao.
+Depende do faturamento e da estrutura de distribuição. Com a nova tributação de dividendos, a análise precisa considerar o custo total — impostos da PJ mais impostos na distribuição.
 
 ---
 
-*Ultima atualizacao: Marco 2026*
+*Última atualização: Março de 2026*
 
-*Referencias: [Lei Complementar no 214/2025](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm), [Lei no 15.270/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm), [Calculadora CBS/IBS](https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora), [Tabela IRPF 2026](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026)*
+*Referências: [Lei Complementar nº 214/2025](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm), [Lei nº 15.270/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm), [Calculadora CBS/IBS](https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora), [Tabela IRPF 2026](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026)*

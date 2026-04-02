@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Tudo que voce disser pode e sera usado contra voce: o caso que mudou a relacao entre advogados e IA"
-description: "O caso United States v. Heppner decidiu que conversas com IA publica nao tem sigilo advogado-cliente. Entenda a decisao, os termos de uso da Anthropic e o impacto no Brasil."
+title: "Tudo que você disser pode e será usado contra você: o caso que mudou a relação entre advogados e IA"
+description: "O caso United States v. Heppner decidiu que conversas com IA pública não têm sigilo advogado-cliente. Entenda a decisão, os termos de uso da Anthropic e o impacto no Brasil."
 keywords: "caso heppner, sigilo advogado cliente IA, privilegio advogado IA, ChatGPT advogado, Claude anthropic, LGPD IA, direito digital, etica advocacia IA"
 date: 2026-03-10
 author: "Bruno Pellizzetti"
@@ -9,240 +9,240 @@ published: false
 tags: [IA, Direito Digital, Etica, Sigilo Profissional]
 lang: pt-br
 permalink: /ia-privilegio-advogado-heppner/
-image: "/img/ia-privilegio-heppner.png"
-og_image: "/img/ia-privilegio-heppner.png"
+image: "/img/ia-privilegio-advogado-heppner.png"
+og_image: "/img/ia-privilegio-advogado-heppner.png"
 categories: [IA & Inovacao, Direito Digital]
 ---
 
-![IA e Sigilo Profissional](/img/ia-privilegio-heppner.png)
+![IA e Sigilo Profissional](/img/ia-privilegio-advogado-heppner.png)
 
-# Tudo Que Voce Disser Pode e Sera Usado Contra Voce: O Caso que Mudou a Relacao entre Advogados e IA
+# Tudo Que Você Disser Pode e Será Usado Contra Você: O Caso que Mudou a Relação entre Advogados e IA
 
-Imagina a seguinte situacao.
+Imagine a seguinte situação.
 
-Voce e advogado. Esta com um caso complicado. E como qualquer profissional moderno, voce abre o ChatGPT, ou o Claude, ou qualquer outra IA, e comeca a digitar.
+Você é advogado. Está com um caso complicado. E como qualquer profissional moderno, você abre o ChatGPT, ou o Claude, ou qualquer outra IA, e começa a digitar.
 
-Voce coloca os fatos do caso. Coloca a tese. Coloca informacoes do cliente. Coloca a estrategia de defesa. Porque ninguem vai ver isso, ne? E so voce e a maquina.
+Você coloca os fatos do caso. Coloca a tese. Coloca informações do cliente. Coloca a estratégia de defesa. Porque ninguém vai ver isso, né? É só você e a máquina.
 
 Errado.
 
-Em fevereiro de 2026, um juiz federal nos Estados Unidos decidiu que TUDO o que um reu digitou em uma IA publica era prova valida. Nao tinha sigilo. Nao tinha privilegio advogado-cliente. Nada.
+Em fevereiro de 2026, um juiz federal nos Estados Unidos decidiu que TUDO o que um réu digitou em uma IA pública era prova válida. Não tinha sigilo. Não tinha privilégio advogado-cliente. Nada.
 
 O nome do caso: **United States versus Heppner**.
 
-E essa decisao muda TUDO para quem trabalha com Direito e usa inteligencia artificial.
+E essa decisão muda TUDO para quem trabalha com Direito e usa inteligência artificial.
 
 ## O Que Aconteceu
 
-Em outubro de 2025, Bradley Heppner, um executivo do mercado financeiro de Dallas, foi indiciado por fraude em valores mobiliarios e outros crimes federais no Distrito Sul de Nova York — o famoso SDNY, uma das varas federais mais importantes dos EUA.
+Em outubro de 2025, Bradley Heppner, um executivo do mercado financeiro de Dallas, foi indiciado por fraude em valores mobiliários e outros crimes federais no Distrito Sul de Nova York — o famoso SDNY, uma das varas federais mais importantes dos EUA.
 
-Heppner contratou advogados — do escritorio Quinn Emanuel, um dos maiores do mundo. Teve reunioes com seus advogados. Recebeu orientacoes estrategicas. Ate aqui, normal.
+Heppner contratou advogados — do escritório Quinn Emanuel, um dos maiores do mundo. Teve reuniões com seus advogados. Recebeu orientações estratégicas. Até aqui, normal.
 
-Mas ai ele fez algo que mudou tudo.
+Mas aí ele fez algo que mudou tudo.
 
-Por conta propria, sem orientacao dos advogados, Heppner abriu a versao gratuita do Claude — o chatbot da Anthropic — e comecou a fazer perguntas juridicas.
+Por conta própria, sem orientação dos advogados, Heppner abriu a versão gratuita do Claude — o chatbot da Anthropic — e começou a fazer perguntas jurídicas.
 
-Mas nao eram perguntas genericas. Ele alimentou a IA com informacoes que tinha recebido nas reunioes com seus advogados. Estrategia de defesa. Fatos do caso. Teses juridicas. Tudo.
+Mas não eram perguntas genéricas. Ele alimentou a IA com informações que tinha recebido nas reuniões com seus advogados: estratégia de defesa, fatos do caso, teses jurídicas. Tudo.
 
 Resultado: 31 documentos. Prompts e respostas. Tudo salvo nos dispositivos dele.
 
-Quando o FBI executou um mandado de busca e apreensao, encontrou tudo. E o governo pediu ao juiz para declarar que esses documentos NAO tinham protecao de sigilo.
+Quando o FBI executou um mandado de busca e apreensão, encontrou tudo. E o governo pediu ao juiz para declarar que esses documentos NÃO tinham proteção de sigilo.
 
-O juiz? Jed Rakoff. Se voce conhece o sistema judicial americano, sabe que esse juiz e uma lenda. Mais de 20 anos no SDNY, conhecido por decisoes corajosas e fundamentadas.
+O juiz? Jed Rakoff. Se você conhece o sistema judicial americano, sabe que esse juiz é uma lenda. Mais de 20 anos no SDNY, conhecido por decisões corajosas e fundamentadas.
 
-E no dia 10 de fevereiro de 2026, Rakoff decidiu: NENHUM dos 31 documentos era protegido. Nem pelo privilegio advogado-cliente. Nem pela doutrina do trabalho intelectual. Nada.
+E no dia 10 de fevereiro de 2026, Rakoff decidiu: NENHUM dos 31 documentos era protegido. Nem pelo privilégio advogado-cliente. Nem pela doutrina do trabalho intelectual. Nada.
 
-O proprio juiz disse que era uma "questao de primeira impressao nacional" — ou seja, nenhum tribunal nos EUA tinha decidido isso antes.
+O próprio juiz disse que era uma "questão de primeira impressão nacional" — ou seja, nenhum tribunal nos EUA tinha decidido isso antes.
 
-## Por Que a Decisao Faz Sentido: Os 3 Pilares
+## Por Que a Decisão Faz Sentido: Os 3 Pilares
 
-### Pilar 1: A IA nao e advogado
+### Pilar 1: A IA não é advogado
 
-Parece obvio, mas precisa ser dito com clareza juridica.
+Parece óbvio, mas precisa ser dito com clareza jurídica.
 
-O privilegio advogado-cliente exige uma relacao de confianca entre um cliente e um profissional habilitado. Um advogado tem inscricao na ordem, tem dever de lealdade, tem obrigacao de confidencialidade imposta por lei, pode ser disciplinado por violacoes eticas.
+O privilégio advogado-cliente exige uma relação de confiança entre um cliente e um profissional habilitado. Um advogado tem inscrição na ordem, tem dever de lealdade, tem obrigação de confidencialidade imposta por lei e pode ser disciplinado por violações éticas.
 
-O Claude nao tem nada disso. Nao e advogado. Nao tem OAB. Nao tem dever fiduciario. Nao pode ser responsabilizado profissionalmente.
+O Claude não tem nada disso. Não é advogado. Não tem OAB. Não tem dever fiduciário. Não pode ser responsabilizado profissionalmente.
 
-O juiz Rakoff foi claro: o privilegio exige uma "relacao humana de confianca" que envolve deveres fiduciarios e disciplina profissional. Isso nao existe com uma IA.
+O juiz Rakoff foi claro: o privilégio exige uma "relação humana de confiança" que envolve deveres fiduciários e disciplina profissional. Isso não existe com uma IA.
 
-E olha — os proprios termos de uso do Claude dizem expressamente: "os servicos nao substituem aconselhamento profissional". A IA AVISA que nao e advogado.
+E olha — os próprios termos de uso do Claude dizem expressamente: "os serviços não substituem aconselhamento profissional". A IA AVISA que não é advogado.
 
-### Pilar 2: Nao existe expectativa razoavel de confidencialidade
+### Pilar 2: Não existe expectativa razoável de confidencialidade
 
-E aqui que o bicho pega de verdade.
+É aqui que o bicho pega de verdade.
 
-O privilegio advogado-cliente depende de CONFIDENCIALIDADE. Se voce conta algo pro seu advogado no meio da praca, com todo mundo ouvindo, acabou o sigilo.
+O privilégio advogado-cliente depende de CONFIDENCIALIDADE. Se você conta algo para o seu advogado no meio da praça, com todo mundo ouvindo, acabou o sigilo.
 
-E o que acontece quando voce digita algo no Claude versao gratuita?
+E o que acontece quando você digita algo no Claude versão gratuita?
 
-Voce esta enviando suas informacoes para uma empresa privada — a Anthropic — que na sua propria politica de privacidade diz:
+Você está enviando suas informações para uma empresa privada — a Anthropic — que na sua própria política de privacidade diz:
 
-— Que coleta dados sobre o que voce digita E o que a IA responde.
-— Que pode usar esses dados para treinamento de modelo.
+— Que coleta dados sobre o que você digita E o que a IA responde;
+— Que pode usar esses dados para treinamento de modelo;
 — Que pode compartilhar esses dados com terceiros, INCLUINDO autoridades governamentais.
 
-Leu isso? Incluindo autoridades governamentais. Esta la, na politica de privacidade que ninguem le.
+Leu isso? Incluindo autoridades governamentais. Está lá, na política de privacidade que ninguém lê.
 
-O juiz Rakoff citou expressamente a politica de privacidade da Anthropic na decisao. Foi um dos fundamentos centrais. Se a propria plataforma diz que pode divulgar seus dados para o governo, como e que voce vai alegar expectativa de sigilo?
+O juiz Rakoff citou expressamente a política de privacidade da Anthropic na decisão. Foi um dos fundamentos centrais. Se a própria plataforma diz que pode divulgar seus dados para o governo, como é que você vai alegar expectativa de sigilo?
 
-E tem um detalhe CRUEL que muita gente nao percebe: mesmo que voce compartilhe o resultado da IA com seu advogado DEPOIS, o documento nao se torna privilegiado. A confidencialidade precisa existir desde o inicio. Se voce jogou a informacao em um canal nao confidencial, ja era.
+E tem um detalhe CRUEL que muita gente não percebe: mesmo que você compartilhe o resultado da IA com seu advogado DEPOIS, o documento não se torna privilegiado. A confidencialidade precisa existir desde o início. Se você jogou a informação em um canal não confidencial, já era.
 
-### Pilar 3: A comunicacao nao foi para obter assessoria juridica
+### Pilar 3: A comunicação não foi para obter assessoria jurídica
 
-O privilegio so se aplica a comunicacoes feitas COM O PROPOSITO de obter orientacao juridica de um advogado. A IA nao e advogado. E Heppner usou a IA por conta propria — seus advogados nao mandaram ele usar, nao supervisionaram, nao tinham conhecimento.
+O privilégio só se aplica a comunicações feitas COM O PROPÓSITO de obter orientação jurídica de um advogado. A IA não é advogado. E Heppner usou a IA por conta própria — seus advogados não mandaram ele usar, não supervisionaram, não tinham conhecimento.
 
-O tribunal deixou claro: a pergunta relevante e se o conselho foi buscado DO DESTINATARIO da comunicacao. Se voce manda uma pergunta para uma IA que explicitamente diz que NAO da aconselhamento juridico, nao ha como enquadrar isso como comunicacao privilegiada.
+O tribunal deixou claro: a pergunta relevante é se o conselho foi buscado DO DESTINATÁRIO da comunicação. Se você manda uma pergunta para uma IA que explicitamente diz que NÃO dá aconselhamento jurídico, não há como enquadrar isso como comunicação privilegiada.
 
 ### E a Doutrina do Work Product?
 
-A defesa tambem tentou a doutrina do trabalho intelectual — "work product doctrine" — que protege documentos preparados em antecipacao de litigio.
+A defesa também tentou a doutrina do trabalho intelectual — "work product doctrine" — que protege documentos preparados em antecipação de litígio.
 
-Tambem nao funcionou. Por que? Porque essa doutrina protege o trabalho do ADVOGADO. As impressoes mentais do advogado. A estrategia do advogado. Documentos preparados PELO advogado ou SOB SUPERVISAO do advogado.
+Também não funcionou. Por quê? Porque essa doutrina protege o trabalho do ADVOGADO: as impressões mentais do advogado, a estratégia do advogado, documentos preparados PELO advogado ou SOB SUPERVISÃO do advogado.
 
-Heppner fez tudo sozinho. Sem orientacao. Sem supervisao. O tribunal disse: "o reu criou os documentos por sua propria vontade."
+Heppner fez tudo sozinho. Sem orientação. Sem supervisão. O tribunal disse: "o réu criou os documentos por sua própria vontade."
 
-Sem advogado envolvido, sem protecao de work product.
+Sem advogado envolvido, sem proteção de work product.
 
-## Os Termos de Uso da Anthropic: O Que Voce Esta Aceitando
+## Os Termos de Uso da Anthropic: O Que Você Está Aceitando
 
 ### Plano Gratuito e Pro (Consumidor)
 
-Nos Termos do Consumidor, Secao 4:
+Nos Termos do Consumidor, Seção 4:
 
-> "Podemos usar os Materiais para fornecer, manter e melhorar os Servicos e para desenvolver outros produtos e servicos, incluindo treinamento de nossos modelos, a menos que voce opte por nao participar do treinamento atraves das configuracoes de sua conta."
+> "Podemos usar os Materiais para fornecer, manter e melhorar os Serviços e para desenvolver outros produtos e serviços, incluindo treinamento de nossos modelos, a menos que você opte por não participar do treinamento através das configurações de sua conta."
 
-Ou seja: se voce nao foi la nas configuracoes e desativou manualmente, suas conversas PODEM estar sendo usadas para treinar o modelo.
+Ou seja: se você não foi lá nas configurações e desativou manualmente, suas conversas PODEM estar sendo usadas para treinar o modelo.
 
 ### Sobre Compartilhamento com Governo
 
-Nos Termos do Consumidor, Secao 12:
+Nos Termos do Consumidor, Seção 12:
 
-> "Nos reservamos o direito, a nosso exclusivo criterio, de reportar informacoes de ou sobre voce, incluindo, mas nao limitado a, Entradas, Saidas ou Acoes, para autoridades policiais."
+> "Nos reservamos o direito, a nosso exclusivo critério, de reportar informações de ou sobre você, incluindo, mas não limitado a, Entradas, Saídas ou Ações, para autoridades policiais."
 
-A Anthropic reserva o direito de PROATIVAMENTE reportar suas conversas para a policia. Nao precisa nem de intimacao.
+A Anthropic reserva o direito de PROATIVAMENTE reportar suas conversas para a polícia. Não precisa nem de intimação.
 
-### Retencao de Dados
+### Retenção de Dados
 
-| Situacao | Prazo de Retencao |
+| Situação | Prazo de Retenção |
 |----------|:-----------------:|
 | Opt-out de treinamento | 30 dias |
-| Opt-in de treinamento | Ate 5 anos (desidentificado) |
-| Conversa deletada | Removida do historico, mas ate 30 dias no back-end |
-| Sinalizada por violacao | Ate 2 anos (inputs/outputs) e 7 anos (scores de seguranca) |
+| Opt-in de treinamento | Até 5 anos (desidentificado) |
+| Conversa deletada | Removida do histórico, mas até 30 dias no back-end |
+| Sinalizada por violação | Até 2 anos (inputs/outputs) e 7 anos (scores de segurança) |
 
 ### E os Planos Enterprise?
 
-Aqui a historia e diferente. Nos termos comerciais:
+Aqui a história é diferente. Nos termos comerciais:
 
-> "A Anthropic nao pode treinar modelos com Conteudo do Cliente proveniente dos Servicos."
+> "A Anthropic não pode treinar modelos com Conteúdo do Cliente proveniente dos Serviços."
 
-E ha obrigacoes contratuais de confidencialidade mutua. Retencao de 30 dias — ou zero com retencao zero de dados. E em caso de pedido governamental, a Anthropic e obrigada a NOTIFICAR o cliente e cooperar para limitar o escopo.
+E há obrigações contratuais de confidencialidade mútua. Retenção de 30 dias — ou zero com retenção zero de dados. E em caso de pedido governamental, a Anthropic é obrigada a NOTIFICAR o cliente e cooperar para limitar o escopo.
 
-E EXATAMENTE por isso que o juiz Rakoff fez questao de deixar claro: a decisao dele nao se aplica necessariamente a ferramentas enterprise com protecoes contratuais de confidencialidade. Ele deixou essa porta aberta.
+É EXATAMENTE por isso que o juiz Rakoff fez questão de deixar claro: a decisão dele não se aplica necessariamente a ferramentas enterprise com proteções contratuais de confidencialidade. Ele deixou essa porta aberta.
 
-A distincao consumidor versus enterprise agora e a linha divisoria mais importante do Direito Digital.
+A distinção consumidor versus enterprise agora é a linha divisória mais importante do Direito Digital.
 
 ## Impacto no Brasil
 
 ### O Sigilo Profissional no Brasil
 
-O sigilo advogado-cliente no Brasil e protegido pelo artigo 7o do Estatuto da OAB, pelo artigo 5o, inciso XIV da Constituicao, e pelo Codigo de Etica da OAB.
+O sigilo advogado-cliente no Brasil é protegido pelo artigo 7º do Estatuto da OAB, pelo artigo 5º, inciso XIV da Constituição, e pelo Código de Ética da OAB.
 
-E um direito FUNDAMENTAL. O advogado nao pode ser obrigado a revelar informacoes do cliente. Ate ai, estamos mais protegidos que nos EUA.
+É um direito FUNDAMENTAL. O advogado não pode ser obrigado a revelar informações do cliente. Até aí, estamos mais protegidos que nos EUA.
 
-MAS — e esse "mas" e enorme — o sigilo depende de voce MANTER a confidencialidade.
+MAS — e esse "mas" é enorme — o sigilo depende de você MANTER a confidencialidade.
 
-Se voce, advogado, pega informacoes confidenciais do seu cliente e coloca em uma plataforma de IA publica, cujos termos de uso dizem que os dados podem ser compartilhados com terceiros e com governos... voce esta VOLUNTARIAMENTE quebrando o sigilo.
+Se você, advogado, pega informações confidenciais do seu cliente e coloca em uma plataforma de IA pública, cujos termos de uso dizem que os dados podem ser compartilhados com terceiros e com governos... você está VOLUNTARIAMENTE quebrando o sigilo.
 
-Nao e a IA que quebra. E VOCE.
+Não é a IA que quebra. É VOCÊ.
 
-### O Artigo 154 do Codigo Penal
+### O Artigo 154 do Código Penal
 
-O artigo 154 do Codigo Penal tipifica a violacao de segredo profissional. O advogado que revela, sem justa causa, segredo de que tem ciencia em razao de funcao, pode responder criminalmente.
+O artigo 154 do Código Penal tipifica a violação de segredo profissional. O advogado que revela, sem justa causa, segredo de que tem ciência em razão de função, pode responder criminalmente.
 
-Quando voce coloca informacoes do cliente em uma IA publica, sem o consentimento dele, voce pode estar cometendo esse crime. Porque voce esta divulgando informacoes sigilosas a um terceiro — a empresa que opera a IA.
+Quando você coloca informações do cliente em uma IA pública, sem o consentimento dele, você pode estar cometendo esse crime — porque está divulgando informações sigilosas a um terceiro: a empresa que opera a IA.
 
 ### LGPD e Dados de Terceiros
 
-Se voce insere dados pessoais de clientes em uma IA publica, voce esta fazendo um COMPARTILHAMENTO de dados pessoais com um terceiro — no caso, a Anthropic, empresa americana.
+Se você insere dados pessoais de clientes em uma IA pública, está fazendo um COMPARTILHAMENTO de dados pessoais com um terceiro — no caso, a Anthropic, empresa americana.
 
 Sem base legal? Sem consentimento do titular? Sem contrato de processamento de dados?
 
-Voce pode estar violando a LGPD. Artigo 33 — transferencia internacional de dados. Artigo 7o — bases legais. Artigo 46 — medidas de seguranca.
+Você pode estar violando a LGPD: artigo 33 (transferência internacional de dados), artigo 7º (bases legais) e artigo 46 (medidas de segurança).
 
-### O Cenario Inevitavel
+### O Cenário Inevitável
 
-Pode nao existir ainda uma decisao brasileira identica ao caso Heppner. Mas e so questao de tempo.
+Pode não existir ainda uma decisão brasileira idêntica ao caso Heppner. Mas é só questão de tempo.
 
-Imagine um caso criminal onde o advogado de defesa usou o ChatGPT para montar a estrategia, colocando detalhes do caso. O Ministerio Publico descobre e pede acesso. Com base nos termos de uso dessas plataformas, o argumento e exatamente o mesmo: nao ha expectativa de confidencialidade.
+Imagine um caso criminal onde o advogado de defesa usou o ChatGPT para montar a estratégia, colocando detalhes do caso. O Ministério Público descobre e pede acesso. Com base nos termos de uso dessas plataformas, o argumento é exatamente o mesmo: não há expectativa de confidencialidade.
 
-E o pior: diferente dos EUA, onde a discussao e sobre privilegio processual, no Brasil o advogado pode responder CRIMINALMENTE e ser punido pela OAB.
+E o pior: diferente dos EUA, onde a discussão é sobre privilégio processual, no Brasil o advogado pode responder CRIMINALMENTE e ser punido pela OAB.
 
-## Guia Pratico: Como Usar IA Sem Perder o Sigilo
+## Guia Prático: Como Usar IA Sem Perder o Sigilo
 
-### 1. NUNCA use a versao gratuita ou pessoal para dados de clientes
+### 1. NUNCA use a versão gratuita ou pessoal para dados de clientes
 
-Se voce precisa usar IA para um caso real, com dados reais do cliente, use APENAS versoes enterprise ou API com termos de confidencialidade.
+Se você precisa usar IA para um caso real, com dados reais do cliente, use APENAS versões enterprise ou API com termos de confidencialidade.
 
-O Claude Enterprise, por exemplo, tem clausulas contratuais que PROIBEM o treinamento com dados do cliente e garantem confidencialidade. O ChatGPT Enterprise tambem.
+O Claude Enterprise, por exemplo, tem cláusulas contratuais que PROÍBEM o treinamento com dados do cliente e garantem confidencialidade. O ChatGPT Enterprise também.
 
 ### 2. Anonimize SEMPRE
 
-Antes de colocar qualquer cenario em uma IA, remova:
-- Nomes
-- CPFs, CNPJs
-- Numeros de processo
-- Enderecos
-- Qualquer dado que identifique o cliente
+Antes de colocar qualquer cenário em uma IA, remova:
+- Nomes;
+- CPFs e CNPJs;
+- Números de processo;
+- Endereços;
+- Qualquer dado que identifique o cliente.
 
-Use a IA para analisar a TESE, nao o CASO especifico.
+Use a IA para analisar a TESE, não o CASO específico.
 
-### 3. Documente a supervisao do advogado
+### 3. Documente a supervisão do advogado
 
-Se voce for usar IA como ferramenta auxiliar — e ela E uma ferramenta util — documente que o uso foi supervisionado, direcionado e controlado pelo advogado responsavel.
+Se você for usar IA como ferramenta auxiliar — e ela É uma ferramenta útil — documente que o uso foi supervisionado, direcionado e controlado pelo advogado responsável.
 
-Isso e importante para preservar a doutrina do work product. O juiz Rakoff deixou claro que, se o advogado tivesse DIRECIONADO o uso da IA, a analise poderia ser diferente.
+Isso é importante para preservar a doutrina do work product. O juiz Rakoff deixou claro que, se o advogado tivesse DIRECIONADO o uso da IA, a análise poderia ser diferente.
 
 ### 4. Leia os termos de uso
 
-Voce e advogado. Voce PRECISA ler. Voce precisa saber:
-- Se a plataforma treina com seus dados
-- Se compartilha com terceiros
-- Se pode divulgar para governos
-- Qual e o prazo de retencao
+Você é advogado. Você PRECISA ler. Você precisa saber:
+- Se a plataforma treina com seus dados;
+- Se compartilha com terceiros;
+- Se pode divulgar para governos;
+- Qual é o prazo de retenção.
 
-### 5. Tenha uma politica interna no escritorio
+### 5. Tenha uma política interna no escritório
 
 Escreva. Formalize. Treine sua equipe. Deixe claro:
-- Quais ferramentas sao permitidas
-- Quais dados podem ou nao ser inseridos
-- Como anonimizar
-- Consequencias de violacao
+- Quais ferramentas são permitidas;
+- Quais dados podem ou não ser inseridos;
+- Como anonimizar;
+- Consequências de violação.
 
 ### 6. Informe o cliente
 
-Se voce pretende usar IA em alguma etapa do trabalho, informe o cliente e obtenha consentimento. E transparencia, e etica, e protecao.
+Se você pretende usar IA em alguma etapa do trabalho, informe o cliente e obtenha consentimento. É transparência, é ética, é proteção.
 
 ## FAQ
 
-**Conversas com IA enterprise tambem perdem o sigilo?**
-Nao necessariamente. O juiz Rakoff deixou a porta aberta para ferramentas com protecoes contratuais de confidencialidade. Planos enterprise com clausulas de nao-treinamento e confidencialidade mutua podem ter tratamento diferente.
+**Conversas com IA enterprise também perdem o sigilo?**
+Não necessariamente. O juiz Rakoff deixou a porta aberta para ferramentas com proteções contratuais de confidencialidade. Planos enterprise com cláusulas de não-treinamento e confidencialidade mútua podem ter tratamento diferente.
 
 **O que acontece se eu deletar a conversa?**
-Depende da plataforma. Na Anthropic, conversas deletadas ficam no back-end por ate 30 dias. Se sinalizadas por violacao, ate 7 anos.
+Depende da plataforma. Na Anthropic, conversas deletadas ficam no back-end por até 30 dias. Se sinalizadas por violação, até 7 anos.
 
-**Posso usar IA para pesquisa juridica generica?**
-Sim. O problema nao e usar IA — e colocar dados confidenciais do cliente em plataformas sem protecao de sigilo.
-
----
-
-A inteligencia artificial nao te da o aviso de Miranda. Mas deveria. Porque a realidade agora e essa: tudo que voce digitar em uma IA publica pode ser armazenado, analisado, compartilhado e, sim, usado contra voce em um tribunal.
-
-A IA e uma ferramenta extraordinaria. Mas ferramenta nenhuma substitui o julgamento profissional. E ferramenta nenhuma esta acima da etica.
+**Posso usar IA para pesquisa jurídica genérica?**
+Sim. O problema não é usar IA — é colocar dados confidenciais do cliente em plataformas sem proteção de sigilo.
 
 ---
 
-*Ultima atualizacao: Marco 2026*
+A inteligência artificial não te dá o aviso de Miranda. Mas deveria. Porque a realidade agora é essa: tudo que você digitar em uma IA pública pode ser armazenado, analisado, compartilhado e, sim, usado contra você em um tribunal.
 
-*Referencias: [United States v. Heppner, No. 25 Cr. 503 (S.D.N.Y., Feb. 17, 2026)](https://www.courtlistener.com/docket/71872024/united-states-v-heppner/), [Harvard Law Review](https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/), [Anthropic Consumer Terms](https://www.anthropic.com/legal/consumer-terms), [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)*
+A IA é uma ferramenta extraordinária. Mas ferramenta nenhuma substitui o julgamento profissional. E ferramenta nenhuma está acima da ética.
+
+---
+
+*Última atualização: Março de 2026*
+
+*Referências: [United States v. Heppner, No. 25 Cr. 503 (S.D.N.Y., Feb. 17, 2026)](https://www.courtlistener.com/docket/71872024/united-states-v-heppner/), [Harvard Law Review](https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/), [Anthropic Consumer Terms](https://www.anthropic.com/legal/consumer-terms), [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)*

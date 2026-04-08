@@ -3,9 +3,9 @@ layout: post
 title: "Honorários advocatícios: como estruturar a cobrança e proteger a receita do seu escritório"
 description: "Guia completo sobre os 4 tipos de honorários, modalidades de cobrança, proteções legais da Lei 14.365/2022 e gestão financeira para escritórios de advocacia."
 keywords: "honorarios advocaticios, gestao escritorio advocacia, Lei 14.365 2022, sucumbencia, contrato honorarios, LGPD advocacia, cobranca honorarios"
-date: 2026-03-17
+date: 2026-04-15
 author: "Bruno Pellizzetti"
-published: false
+published: true
 tags: [Gestão, Honorários, Financeiro, Advocacia]
 lang: pt-br
 permalink: /honorarios-advocaticios-guia-gestao/
@@ -126,7 +126,5 @@ Honorários não são apenas uma questão jurídica — são **gestão financeir
 Escritórios que tratam honorários como processo de gestão, e não como detalhe administrativo, cobram mais, perdem menos e têm fluxo de caixa previsível.
 
 ---
-
-*Última atualização: Março de 2026*
 
 *Referências: [Lei 8.906/1994 - Estatuto da OAB](https://www.planalto.gov.br/ccivil_03/leis/l8906.htm), [Lei 14.365/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14365.htm), [CPC Art. 85](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm)*

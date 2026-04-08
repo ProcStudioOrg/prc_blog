@@ -3,7 +3,7 @@ layout: post
 title: "Reforma tributária 2026: o que muda na tributação do seu escritório de advocacia"
 description: "CBS, IBS, nova tabela de IRPF, tributação de dividendos e comparativo Simples Nacional vs Lucro Presumido para escritórios de advocacia em 2026."
 keywords: "reforma tributaria 2026, CBS IBS advogado, tributacao escritorio advocacia, dividendos 2026, simples nacional advocacia, lucro presumido advocacia, IRPF 2026"
-date: 2026-03-24
+date: 2026-04-22
 author: "Bruno Pellizzetti"
 published: false
 tags: [Tributário, Gestão, Financeiro, Reforma Tributária]
@@ -11,7 +11,7 @@ lang: pt-br
 permalink: /reforma-tributaria-2026-advogados/
 image: "/img/reforma-tributaria-2026-advogados.png"
 og_image: "/img/reforma-tributaria-2026-advogados.png"
-categories: [Gestão, Tributário]
+categories: [Gestão de Escritório]
 ---
 
 ![Reforma Tributária 2026](/img/reforma-tributaria-2026-advogados.png)

@@ -59,11 +59,11 @@ nav {
   align-items: stretch !important; // Isso faz as colunas terem mesma altura
 }
 
-// Row INTERNA dos posts pequenos - sem margin e alinha no topo
+// Row INTERNA dos posts pequenos
 .col-lg-6 > .row {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-  align-items: flex-start !important;
+  align-items: stretch !important;
   height: 100%;
 }
 
@@ -77,7 +77,7 @@ nav {
 }
 
 .col-md-6.mb-4 {
-  align-self: flex-start;
+  display: flex;
 }
 
 // ========================================
@@ -113,6 +113,11 @@ nav {
 
 .post-small {
   margin-top: 0 !important;
+  height: 100%;
+}
+
+.post-small .post-description {
+  flex-grow: 1;
 }
 
 // ========================================

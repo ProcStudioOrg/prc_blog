@@ -3,15 +3,15 @@ layout: post
 title: "Tudo que você disser pode e será usado contra você: o caso que mudou a relação entre advogados e IA"
 description: "O caso United States v. Heppner decidiu que conversas com IA pública não têm sigilo advogado-cliente. Entenda a decisão, os termos de uso da Anthropic e o impacto no Brasil."
 keywords: "caso heppner, sigilo advogado cliente IA, privilegio advogado IA, ChatGPT advogado, Claude anthropic, LGPD IA, direito digital, etica advocacia IA"
-date: 2026-03-10
+date: 2026-04-08
 author: "Bruno Pellizzetti"
-published: false
+published: true
 tags: [IA, Direito Digital, Etica, Sigilo Profissional]
 lang: pt-br
 permalink: /ia-privilegio-advogado-heppner/
 image: "/img/ia-privilegio-advogado-heppner.png"
 og_image: "/img/ia-privilegio-advogado-heppner.png"
-categories: [IA & Inovacao, Direito Digital]
+categories: [IA & Inovação, Direito Digital]
 ---
 
 ![IA e Sigilo Profissional](/img/ia-privilegio-advogado-heppner.png)
@@ -242,7 +242,5 @@ A inteligência artificial não te dá o aviso de Miranda. Mas deveria. Porque a
 A IA é uma ferramenta extraordinária. Mas ferramenta nenhuma substitui o julgamento profissional. E ferramenta nenhuma está acima da ética.
 
 ---
-
-*Última atualização: Março de 2026*
 
 *Referências: [United States v. Heppner, No. 25 Cr. 503 (S.D.N.Y., Feb. 17, 2026)](https://www.courtlistener.com/docket/71872024/united-states-v-heppner/), [Harvard Law Review](https://harvardlawreview.org/blog/2026/03/united-states-v-heppner/), [Anthropic Consumer Terms](https://www.anthropic.com/legal/consumer-terms), [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)*

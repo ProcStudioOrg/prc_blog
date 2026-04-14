@@ -90,6 +90,46 @@
         <p class="mb-0">
           &copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }}. Todos os direitos reservados.
         </p>
+        <p class="mt-2 mb-0">
+          <a href="{{ '/politica-de-privacidade' | relative_url }}" class="footer-policy-link">Política de Privacidade e Cookies</a>
+        </p>
       </div>
     </div>
 </footer>
+
+<!-- Cookie Consent Banner -->
+<div id="cookieConsent" class="cookie-banner" style="display:none;">
+  <div class="cookie-banner-content">
+    <div class="cookie-text">
+      <p>Utilizamos cookies para melhorar sua experiência de navegação e analisar o tráfego do site por meio do Google Analytics.
+      Ao clicar em "Aceitar", você concorda com o uso de cookies conforme nossa
+      <a href="{{ '/politica-de-privacidade' | relative_url }}">Política de Privacidade</a>.</p>
+    </div>
+    <div class="cookie-buttons">
+      <button id="cookieReject" class="cookie-btn cookie-btn-reject">Apenas essenciais</button>
+      <button id="cookieAccept" class="cookie-btn cookie-btn-accept">Aceitar todos</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var consent = localStorage.getItem('cookieConsent');
+  if (!consent) {
+    document.getElementById('cookieConsent').style.display = 'block';
+  }
+
+  document.getElementById('cookieAccept').addEventListener('click', function() {
+    localStorage.setItem('cookieConsent', 'accepted');
+    document.getElementById('cookieConsent').style.display = 'none';
+    if (typeof loadGoogleAnalytics === 'function') {
+      loadGoogleAnalytics();
+    }
+  });
+
+  document.getElementById('cookieReject').addEventListener('click', function() {
+    localStorage.setItem('cookieConsent', 'essentials');
+    document.getElementById('cookieConsent').style.display = 'none';
+  });
+})();
+</script>

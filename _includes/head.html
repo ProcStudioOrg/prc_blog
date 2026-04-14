@@ -36,13 +36,23 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LCSXPW2J8E"></script>
+  <!-- Google Analytics - carregado apenas após consentimento de cookies -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-LCSXPW2J8E');
+    function loadGoogleAnalytics() {
+      if (document.querySelector('script[src*="googletagmanager"]')) return;
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id=G-LCSXPW2J8E';
+      document.head.appendChild(script);
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', 'G-LCSXPW2J8E', { anonymize_ip: true });
+    }
+    // Carregar GA apenas se já consentiu
+    if (localStorage.getItem('cookieConsent') === 'accepted') {
+      loadGoogleAnalytics();
+    }
   </script>
 </head>

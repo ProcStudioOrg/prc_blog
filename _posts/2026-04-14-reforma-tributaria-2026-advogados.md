@@ -5,7 +5,7 @@ description: "CBS, IBS, nova tabela de IRPF, tributação de dividendos e compar
 keywords: "reforma tributaria 2026, CBS IBS advogado, tributacao escritorio advocacia, dividendos 2026, simples nacional advocacia, lucro presumido advocacia, IRPF 2026"
 date: 2026-04-22
 author: "Bruno Pellizzetti"
-published: false
+published: true
 tags: [Tributário, Gestão, Financeiro, Reforma Tributária]
 lang: pt-br
 permalink: /reforma-tributaria-2026-advogados/
@@ -121,7 +121,5 @@ Sim. A retenção de 10% só se aplica quando o total de dividendos pagos por um
 Depende do faturamento e da estrutura de distribuição. Com a nova tributação de dividendos, a análise precisa considerar o custo total — impostos da PJ mais impostos na distribuição.
 
 ---
-
-*Última atualização: Março de 2026*
 
 *Referências: [Lei Complementar nº 214/2025](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm), [Lei nº 15.270/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm), [Calculadora CBS/IBS](https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora), [Tabela IRPF 2026](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026)*

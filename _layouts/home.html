@@ -19,7 +19,7 @@ layout: default
           <article class="post-preview post-featured h-100">
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {% if post.image %}
-              <img class="post-thumb img-fluid mb-3" src="{{ post.image }}" alt="{{ post.title }}">
+              <img class="post-thumb img-fluid mb-3" src="{{ post.image }}" alt="{{ post.title }}" width="800" height="449" fetchpriority="high">
               {% endif %}
               <h2 class="post-title">{{ post.title }}</h2>
               {% if post.description %}
@@ -46,7 +46,7 @@ layout: default
           <article class="post-preview post-small">
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {% if post.image %}
-              <img class="post-thumb img-fluid mb-2" src="{{ post.image }}" alt="{{ post.title }}">
+              <img class="post-thumb img-fluid mb-2" src="{{ post.image }}" alt="{{ post.title }}" width="800" height="449" loading="lazy">
               {% endif %}
               <h4 class="post-title">{{ post.title }}</h4>
               {% if post.description %}
@@ -99,7 +99,7 @@ layout: default
           <article class="post-preview post-small">
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {% if post.image %}
-              <img class="post-thumb img-fluid mb-2" src="{{ post.image }}" alt="{{ post.title }}">
+              <img class="post-thumb img-fluid mb-2" src="{{ post.image }}" alt="{{ post.title }}" width="800" height="449" loading="lazy">
               {% endif %}
               <h4 class="post-title">{{ post.title }}</h4>
               {% if post.description %}

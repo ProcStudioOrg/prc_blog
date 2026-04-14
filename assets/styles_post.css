@@ -64,8 +64,8 @@ pre code {
 }
 
 .col-lg-8 img {
-    width: 700px;
-    max-width: 750px;
+    max-width: 100%;
+    height: auto;
     margin: 10px 0;
 }
 

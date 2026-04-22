@@ -16,16 +16,9 @@ og_image: "/img/claude-code-regressao-risco-ia.png"
 
 # Quando sua ferramenta de IA piora sem avisar: O que a crise do claude code ensina sobre risco tecnológico
 
-**Formato:** Blog post - Thought Leadership
-**Destino:** ProcStudio Blog + LinkedIn Bruno Pellizzetti
-**Tom:** Conversa direta, acessível, tech-forward. IA como aliada, mas com rigor.
-**Keywords:** regressão ia, claude code problemas, risco tecnológico ia, dependência ferramentas ia, gestão de risco escritório advocacia, inteligência artificial advocacia, ferramentas ia confiabilidade
+Você contrata uma ferramenta de IA. Ela funciona muito bem por meses. Você adapta seus processos, treina a equipe e integra ao fluxo de trabalho. Um dia, sem nenhum aviso, ela começa a errar. Não de forma óbvia, mas de forma sutil. Faz menos pesquisa antes de agir. Entrega respostas superficiais com a mesma confiança de antes. Diz que terminou quando não terminou.
 
----
-
-Você contrata uma ferramenta de IA. Ela funciona muito bem por meses. Você adapta seus processos, treina a equipe e integra no fluxo de trabalho. Um dia, sem nenhum aviso, ela começa a errar. Não de forma óbvia, mas de forma sutil. Faz menos pesquisa antes de agir. Entrega respostas superficiais com a mesma confiança de antes. Diz que terminou quando não terminou.
-
-Você não sabe se o problema é seu ou da ferramenta. Então continua usando. E os erros se acumulam.
+Você não sabe se o problema é seu ou da ferramenta. Então, continua usando. E os erros se acumulam.
 
 Isso não é ficção. É o que aconteceu com milhares de desenvolvedores que usam o Claude Code, a principal ferramenta de programação com IA da Anthropic. E a lição que esse caso traz vale para qualquer profissional que depende de inteligência artificial no dia a dia, especialmente advogados.
 
@@ -35,7 +28,7 @@ Isso não é ficção. É o que aconteceu com milhares de desenvolvedores que us
 
 Em abril de 2026, uma engenheira sênior chamada Stella Laurenzo abriu um chamado público no GitHub da Anthropic com o título: *"Claude Code is unusable for complex engineering tasks"*.
 
-O que diferenciou esse relato de uma reclamação genérica foi o nível de evidência. Stella e sua equipe analisaram meses de logs de uso, 17.871 blocos de raciocínio e 234.760 chamadas de ferramentas em quase 7 mil sessões, e construíram uma análise quantitativa que mostrava exatamente quando e como a ferramenta piorou.
+O que diferenciou esse relato de uma reclamação genérica foi o nível de evidência. Stella e sua equipe analisaram meses de logs de uso, 17.871 blocos de raciocínio e 234.760 chamadas de ferramentas em quase 7 mil sessões e construíram uma análise quantitativa que mostrava exatamente quando e como a ferramenta piorou.
 
 Os dados revelaram três pontos principais:
 
@@ -140,7 +133,7 @@ Ela ajuda, acelera e sugere. Mas não substitui responsabilidade técnica. A dec
 
 ## Conclusão
 
-Ferramentas de IA não são estáticas. Elas evoluem, e às vezes, pioram.
+Ferramentas de IA não são estáticas. Elas evoluem e, às vezes, pioram.
 
 O risco não está em usar IA. Está em confiar sem medir.
 

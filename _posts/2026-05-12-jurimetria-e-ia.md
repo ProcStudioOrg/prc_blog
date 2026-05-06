@@ -8,11 +8,11 @@ lang: pt-br
 date: 2026-05-12
 permalink: "/jurimetria-nao-e-ia-generativa/"
 categories: [IA & Inovação, Direito Digital, Gestão de Escritório]
-image: "/img/"
-og_image: "/img/"
+image: "/img/jurimetria-nao-e-ia-generativa.png"
+og_image: "/img/jurimetria-nao-e-ia-generativa.png"
 ---
 
-![](/img/)
+![Jurimetria não é IA generativa](/img/jurimetria-nao-e-ia-generativa.png)
 
 # Jurimetria não é IA Generativa: uma distinção que pode custar seu processo
 

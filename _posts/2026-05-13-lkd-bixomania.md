@@ -8,11 +8,11 @@ lang: pt-br
 date: 2026-05-13
 permalink: "/bixonimania-ia-diagnostico-inventado-direito/"
 categories: [IA & Inovação, Segurança Digital, Reflexões & Ensaios]
-image: "/img/"
-og_image: "/img/"
+image: "/img/bixonimania-ia-diagnostico-inventado.png"
+og_image: "/img/bixonimania-ia-diagnostico-inventado.png"
 ---
 
-![](/img/)
+![Diagnostico de bixonimania](/img/bixonimania-ia-diagnostico-inventado.png)
 
 # Bixonimania: A doença inventada que o ChatGPT diagnosticou e o que isso diz sobre IA no mundo jurídico
 

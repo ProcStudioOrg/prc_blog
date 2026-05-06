@@ -8,11 +8,11 @@ lang: pt-br
 date: 2026-05-15
 permalink: "/project-glasswing-marketing-ou-defesa-cibernetica/"
 categories: ["IA & Inovação", "Segurança Digital", "Reflexões & Ensaios"]
-image: "/img/"
-og_image: "/img/"
+image: "/img/project-glasswing-marketing-ou-defesa.png"
+og_image: "/img/project-glasswing-marketing-ou-defesa.png"
 ---
 
-![](/img/)
+![](/img/project-glasswing-marketing-ou-defesa.png)
 
 # Project Glasswing: defesa cibernética ou a maior jogada de marketing da era da IA?
 

@@ -8,11 +8,11 @@ lang: pt-br
 date: 2026-05-14
 permalink: "/suica-ia-judiciario-brasileiro/"
 categories: ["IA & Inovação", "Direito Digital", "Privacidade & Vigilância"]
-image: "/img/"
-og_image: "/img/"
+image: "/img/suica-ia-judiciario-brasileiro.png"
+og_image: "/img/suica-ia-judiciario-brasileiro.png"
 ---
 
-![](/img/)
+![Brasil vs Suíça](/img/suica-ia-judiciario-brasileiro.png)
 
 # A Suíça está construindo a IA que o Judiciário brasileiro deveria estar exigindo
 

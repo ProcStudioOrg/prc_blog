@@ -12,7 +12,7 @@ image: "/img/project-glasswing-marketing-ou-defesa.png"
 og_image: "/img/project-glasswing-marketing-ou-defesa.png"
 ---
 
-![](/img/project-glasswing-marketing-ou-defesa.png)
+![Project Glasswing](/img/project-glasswing-marketing-ou-defesa.png)
 
 # Project Glasswing: defesa cibernética ou a maior jogada de marketing da era da IA?
 

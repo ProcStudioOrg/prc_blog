@@ -13,22 +13,22 @@ categories: [Privacidade & Vigilância, Direito Digital, Casos & Mercado]
 
 ![primeiro-contexto-interativo-simples](/img/novos-corsarios.png)
 
-> **"Roubo não é uso justo"** 
+> **"Roubo não é uso justo"**
 
-Declarou David Carson, Stanford Journalism Fellow, sobre o uso de dados protegidos por direitos autorais para treinar modelos de IA, mostrando a diferenca entre uma fotografia real e o que a IA cuspiu através de prompts, praticamente a mesma imagem. 
+Declarou David Carson, Stanford Journalism Fellow, sobre o uso de dados protegidos por direitos autorais para treinar modelos de IA, mostrando a diferenca entre uma fotografia real e o que a IA cuspiu através de prompts, praticamente a mesma imagem.
 
-Porém essa é uma batalha que está longe do fim e com os incentivos fiscais e o assunto sendo travado como uma guerra fria de duas potencias mundiais, as perspectivas não são boas para os autores... 
+Porém essa é uma batalha que está longe do fim e com os incentivos fiscais e o assunto sendo travado como uma guerra fria de duas potencias mundiais, as perspectivas não são boas para os autores...
 
 
 ## **Das Caravelas aos Data Centers: A História se Repete em Código**
 
-Há 500 anos, Francis Drake e Henry Morgan saqueavam galeões espanhóis carregados de ouro e prata das Américas. Eram piratas? Tecnicamente sim. Mas tinham algo que os protegia: **uma patente de corso emitida pela Rainha Elizabeth I**. Um documento real que transformava pirataria em serviço patriótico, estes eram os **corsários**. 
+Há 500 anos, Francis Drake e Henry Morgan saqueavam galeões espanhóis carregados de ouro e prata das Américas. Eram piratas? Tecnicamente sim. Mas tinham algo que os protegia: **uma patente de corso emitida pela Rainha Elizabeth I**. Um documento real que transformava pirataria em serviço patriótico, estes eram os **corsários**.
 
 Hoje, no século XXI, assistimos ao mesmo fenômeno. OpenAI, Meta, Anthropic e outras Big Techs americanas são os **novos corsários digitais** - saqueando propriedade intelectual global com uma "patente de corso" moderna: **decisões judiciais que chamam roubo de "fair use"**.
 
-> Realmente o caminho para a tecnocracia está sacramentado. 
+> Realmente o caminho para a tecnocracia está sacramentado.
 
-E assim como no século XVI, não é crime quando serve aos interesses do Império e agora do estado tecnocrático. 
+E assim como no século XVI, não é crime quando serve aos interesses do Império e agora do estado tecnocrático.
 
 ## **Os Números do Saque Digital: Maior que Todos os Corsários da História**
 
@@ -112,8 +112,8 @@ No século XVI, corsários precisavam de uma **"Letter of Marque"** - um documen
 - **Decisão**: Isso não afeta o "caráter transformativo" do uso
 
 
-No século XVI, a **Inglaterra** usou corsários para quebrar o monopólio marítimo **espanhol**. Hoje, os **EUA** usam corsários digitais para manter supremacia contra a **China**, como ficou bem explicito no documento do governo norte americano sobre seu plano de [supremacia de Inteligência Artificial]([https://www.ai.gov/action-plan). 
+No século XVI, a **Inglaterra** usou corsários para quebrar o monopólio marítimo **espanhol**. Hoje, os **EUA** usam corsários digitais para manter supremacia contra a **China**, como ficou bem explicito no documento do governo norte americano sobre seu plano de [supremacia de Inteligência Artificial](https://www.ai.gov/action-plan).
 
-David Carson tem razão quando diz "F*ck you. Pay me" - criadores devem ser compensados. Mas ele não reconhece que está lutando não apenas contra empresas privadas, mas com a forca estatal legitimada pelo argumento de guerra que vai atropelar tudo e a todos que estão no caminho e o direito e a justica estão se curvando para essa máquina destrutiva. 
+David Carson tem razão quando diz "F*ck you. Pay me" - criadores devem ser compensados. Mas ele não reconhece que está lutando não apenas contra empresas privadas, mas com a forca estatal legitimada pelo argumento de guerra que vai atropelar tudo e a todos que estão no caminho e o direito e a justica estão se curvando para essa máquina destrutiva.
 
 A era dos direitos autorais acabou.

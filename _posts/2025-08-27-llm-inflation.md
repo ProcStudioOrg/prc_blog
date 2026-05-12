@@ -24,7 +24,7 @@ Nos últimos anos, vimos uma transformação significativa nas maneiras como uti
 
 A expressão "LLM Inflation" se refere ao processo em que informações curtas e diretas são transformadas em conteúdos longos e complexos, e vice-versa. Tratt apresenta um exemplo prático em que Bob, um funcionário que precisa justificar a troca de seu computador, utiliza um LLM para elaborar um e-mail justificativo que não só se torna mais extenso, mas também mais complicado. O gerente de Bob, ao receber a mensagem densa, recorre a outro LLM para resumir o conteúdo, ilustrando a "cyclical nature" desse padrão.
 
-Parece que é um ZIP / UNZIP da nossa própria linguagem. Para evitar isso eu já falei sobre a importância do [contexto](https://blog.procstudio.com.br/ia/agentes/2025/08/20/engenharia-de-contexto.html) ao pedir qualquer coisa para a IA, para que a informação gerada não fique totalmente fora de contexto.
+Parece que é um ZIP / UNZIP da nossa própria linguagem. Para evitar isso eu já falei sobre a importância do [contexto](https://blog.procstudio.com.br/blog/engenharia-de-contexto) ao pedir qualquer coisa para a IA, para que a informação gerada não fique totalmente fora de contexto.
 
 ## Reflexão Sobre Comunicações Eficazes
 

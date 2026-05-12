@@ -12,4 +12,4 @@ Disallow: /_sass/
 Disallow: /assets/
 
 # Sitemap location
-Sitemap: https://brpl20.github.io/sitemap.xml
+Sitemap: /sitemap.xml
